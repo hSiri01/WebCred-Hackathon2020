@@ -94,7 +94,7 @@ iframe[seamless] {
   box-sizing: border-box;
 }
 
-/* Style the search field */
+/* style the search field */
 form.example input[type=text] {
   padding: 10px;
   font-size: 17px;
@@ -104,7 +104,7 @@ form.example input[type=text] {
   background: #ffffff;
 }
 
-/* Style the submit button */
+/* style the submit button */
 form.example button {
   float: left;
   width: 9%;
@@ -113,7 +113,7 @@ form.example button {
   color: white;
   font-size: 17px;
   border: 2px solid white;
-  border-left: none; /* Prevent double borders */
+  border-left: none; /* prevent double borders */
   cursor: pointer;
 }
 
@@ -121,7 +121,7 @@ form.example button:hover {
   background: #0b7dda;
 }
 
-/* Clear floats */
+/* clear floats */
 form.example::after {
   content: "";
   clear: both;
